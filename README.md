@@ -5,7 +5,8 @@ Please use the provided folder structure for your docs (project plan, design doc
 .
 ├── docs                    # Documentation files (alternatively `doc`)
 │   ├── TOC.md              # Table of contents
-│   ├── plan                # Scope and Charter
+|   ├──  charter/chater.md  # Team Charter
+│   ├── plan                # Project Scope and Project Charter
 │   ├── design              # Getting started guide
 │   ├── final               # Getting started guide
 │   ├── logs                # Team Logs
