@@ -2,10 +2,10 @@
 
 ## Purpose of the Team Charter
 
-The team charter is a foundational document that sets clear expectations for how your team will operate throughout the capstone project. It defines your shared goals, norms, and working agreements. A well-crafted charter promotes alignment, accountability, and collaboration—critical to your success over two terms.
+The team charter is a foundational document that sets clear expectations for how your team will operate throughout the capstone project. It defines your shared goals, norms, and working agreements. A well-crafted charter promotes alignment, accountability, and collaboration—critical to your success over two terms.  If must be collectively reviewed by the team as will form a social contract between team members, defining the working relationship and expectations within the team.
 
 > **When to create it:**  
-> Your team must collaboratively draft the charter by the end of the day on Tuesday, May 20th. It can evolve over time but should reflect shared agreement at the start.
+> Your team must collaboratively draft the charter by the end of the day on Thursday, May 21st. It can evolve over time but should reflect shared agreement at the start.
 
 ---
 
@@ -15,6 +15,7 @@ The team charter is a foundational document that sets clear expectations for how
 - Team name (optional but encouraged)
 - Full names and student numbers of all members
 - Roles (initial division of responsibilities, e.g., frontend, backend, project manager)
+- Self-assessed skills/knowledge/expertise
 
 ### 2. Mission Statement / Project Goal
 - A concise description of your project and its intended purpose
@@ -34,7 +35,9 @@ The team charter is a foundational document that sets clear expectations for how
 - Preferred tools for communication (e.g., Discord, Slack, Teams)
 - Meeting frequency and format (e.g., daily standups)
 - Code repository conventions (e.g., Git branching model, commit messages)
+- How will code be reviewed/PRs?
 - How you'll manage tasks (e.g., GitHub Projects)
+- How will you accommodate different learning and working styles? 
 
 ### 6. Conflict Resolution Plan
 - How disagreements will be addressed (e.g., mediated discussion, instructor involvement)
@@ -50,8 +53,11 @@ The team charter is a foundational document that sets clear expectations for how
 ### 9. Review and Revision
 - When the charter will be reviewed (e.g., mid-project checkpoint)
 - Who is responsible for updating it
+  
+### 10. Other Processes and Procedures
+- Are there any other commitments, goals, processes or responsibilities, roles that your group has agreed upon? Consider scope of work, work schedule, rituals, or other information that you may want to include.
 
-### 10. Agreement
+### 11. Agreement
 - Signatures or typed names of all team members confirming agreement.  The document needs to be reviewed and merged with a PR and each team member *MUST* review as part of the signoff process.
 
 ---
